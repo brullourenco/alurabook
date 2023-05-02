@@ -8,7 +8,7 @@ Estudos em HTML e CSS: Projeto feito durante curso de responsividade com mobile-
 
 * CSS
 
-* SwuiperJS
+* SwiperJS
 
 ## Screenshots
 
@@ -18,7 +18,7 @@ Estudos em HTML e CSS: Projeto feito durante curso de responsividade com mobile-
 
 ### https://brullourenco.github.io/alurabook/#
 
-## Responsividade está aplicada, podendo ser testada em celular, tablet ou desktop.
+### Responsividade está aplicada, podendo ser testada em celular, tablet ou desktop.
 
 ### Feito por:
 
